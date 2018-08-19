@@ -1,0 +1,3 @@
+[submodule "fisherman"]
+	path = fisherman
+	url = git@github.com:fisherman/fisherman.git
